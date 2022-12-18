@@ -1,6 +1,11 @@
 body {
-  background-color: #f7d1cd
-}
+  width: 50%
+  margin:30px;
+  border: 30px;
+  padding: 30px}
+
+  body {background-color:#f7d1cd}
+
 h1 {color: #735d78}
 h1 {text-align: center;}
 h3 {color: #735d78}
